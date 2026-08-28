@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    /*sacamos el margin by default a TODO*/
+
+}
+
+header {
+    background-color: black;
+    width: 100px;
+    margin-bottom:10px;
+}
+
+body {
+    color: #f4f0ff;
+    background-color: red;
+
+}
